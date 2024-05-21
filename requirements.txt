@@ -12,5 +12,5 @@ tbats==1.1.2
 scikit-image==0.19.3
 #scikit-learn==1.0.2
 flask==2.3.2
-flask-cors==3.0.10
-requests==2.31.0
+flask-cors==4.0.1
+requests==2.32.0
